@@ -37,7 +37,7 @@ class RegisterViewController: UIViewController {
                 print(error)
             } else {
                 //success
-                print("registration succesful")
+                print("registration succesful yeah")
             }
         }
         
