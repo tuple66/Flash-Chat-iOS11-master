@@ -28,7 +28,7 @@ class RegisterViewController: UIViewController {
 
   
     @IBAction func registerPressed(_ sender: AnyObject) {
-        
+       
 
         
         //TODO: Set up a new user on our Firbase database
